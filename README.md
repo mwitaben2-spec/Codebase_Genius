@@ -1,6 +1,6 @@
 Codebase Genius 💡
 
-Note: This project is an implementation of the "Codebase Genius" assignment (originally specified for JacLang) using Python, Streamlit, and the Google Gemini API.
+Note: This project is an implementation of the "Codebase Genius" assignment using Python, Streamlit, and the Google Gemini API.
 
 This is an AI-powered, multi-agent system that automatically generates high-quality documentation for any public GitHub repository.
 
